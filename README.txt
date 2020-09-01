@@ -20,3 +20,4 @@ This way if the user messes up during the solve they can easily go back to the b
 The left and right arrows next to the "Scramble" and "Reset" button allows the user to move through the solution and the displayed cube will follow along. 
 In the solution is a red letter, that letter represents the move that will be execute if the user were to press the right arrow button.
 If the user pressed the left arrow, it'll undo a move in the move left of the red letter. 
+To run the program run the Driver class.
